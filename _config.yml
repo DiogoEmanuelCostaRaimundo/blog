@@ -81,7 +81,7 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/diogoraimundo/"
-   - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DiogoEmanuelCostaRaimundo"
     - label: "x"
