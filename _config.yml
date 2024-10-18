@@ -72,6 +72,12 @@ author:
     - label: "X"
       icon: "fa-brands fa-x-twitter"
       url: "https://x.com/DiogoRaimundo16"
+      - label: "Upwork"
+      icon: "fa-brands fa-square-upwork"
+      url: "https://www.upwork.com/freelancers/~01ea1219ada50b1fed"
+      - label: "Fiverr"
+      icon: "fa-solid fa-f"
+      url: "https://www.fiverr.com/diogo_raimundo_"
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
@@ -87,7 +93,12 @@ footer:
     - label: "X"
       icon: "fa-brands fa-x-twitter"
       url: "https://x.com/DiogoRaimundo16"
-    
+    - label: "Upwork"
+      icon: "fa-brands fa-square-upwork"
+      url: "https://www.upwork.com/freelancers/~01ea1219ada50b1fed"
+    - label: "Fiverr"
+      icon: "fa-solid fa-f"
+      url: "https://www.fiverr.com/diogo_raimundo_"
 
 
 defaults:
