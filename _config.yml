@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: GMT# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Diogo Raimundo"
-  avatar : "/assets/images/bio-photo.gif"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Aspiring Embedded Systems Designer eager to help a business gain a competitive edge."
   links:
    # - label: "Website"
