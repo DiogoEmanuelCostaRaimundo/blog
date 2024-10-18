@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to the Blog!
+title: I hope you are having a challenging day!
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Embedded Systems Blog
+  Electronics // Embbeded Systems
 twitter_username: username
 github_username: DiogoEmanuelCostaRaimundo
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: Diogo_Raimundo_1
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Diogo Raimundo"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.gif"
   bio    : "Aspiring Embedded Systems Designer eager to help a business gain a competitive edge."
   links:
    # - label: "Website"
