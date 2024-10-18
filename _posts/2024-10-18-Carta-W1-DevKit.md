@@ -4,7 +4,7 @@ date: 2019-04-18T15:34:30-04:00
 categories:
   - Tech
 tags:
-  - Jekyll
-  - update
+  - Cartas
+  - Wireless
 ---
 Ola!

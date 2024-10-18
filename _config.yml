@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: GMT # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Diogo Raimundo"
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Aspiring Embedded Systems Designer eager to help a business gain a competitive edge."
   links:
    # - label: "Website"
@@ -70,8 +70,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DiogoEmanuelCostaRaimundo"
     - label: "X"
-      icon: "fab fa-fw fa-x"
-      url: "https://x.com"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/DiogoRaimundo16"
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
@@ -84,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DiogoEmanuelCostaRaimundo"
-    - label: "x"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com"
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/DiogoRaimundo16"
     
 
 
@@ -100,7 +100,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
